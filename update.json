@@ -3,7 +3,7 @@
   "force": true,
   "apkUrl": "https://github.com/rxrafin456/gsc/releases/download/v1.0.0/college-app-1.0.0.apk",
   "notes": {
-    "bn": ["1.0"],
-    "en": ["1.0"]
+    "bn": ["1.0.0"],
+    "en": ["1.0.0"]
   }
 }
