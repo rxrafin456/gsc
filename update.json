@@ -1,9 +1,17 @@
 {
   "latestVersion": "1.0.0",
   "force": true,
-  "apkUrl": "https://github.com/rxrafin456/gsc/releases/download/v1.0.0/college-app-1.0.0.apk",
+  "apkUrl": "https://github.com/rxrafin456/gsc/releases/download/1.0.1/collage.apk",
   "notes": {
-    "bn": ["1.0.0"],
-    "en": ["1.0.0"]
+    "bn": [
+      "ক্লাস রুটিনে দিন নির্বাচনের সুবিধা যোগ হয়েছে",
+      "সিলেবাস পেজ আরও সহজ করা হয়েছে",
+      "অ্যাপ আরও দ্রুত চলে"
+    ],
+    "en": [
+      "Added day selection in the class routine",
+      "Simpler syllabus screen",
+      "The app runs faster"
+    ]
   }
 }
