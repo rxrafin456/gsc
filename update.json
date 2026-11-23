@@ -6,12 +6,14 @@
     "bn": [
       "ক্লাস রুটিনে দিন নির্বাচনের সুবিধা যোগ হয়েছে",
       "সিলেবাস পেজ আরও সহজ করা হয়েছে",
-      "অ্যাপ আরও দ্রুত চলে"
+      "অ্যাপ আরও দ্রুত চলে",
+      "আপডেটে কোনো সমস্যা হলে অ্যাপের ক্লিয়ার স্টোরেজ (Clear storage) করুন, অথবা https://gsc-college-rafin.netlify.app/ লিংকে গিয়ে নতুন করে ইনস্টল করুন। ধন্যবাদ।"
     ],
     "en": [
       "Added day selection in the class routine",
       "Simpler syllabus screen",
-      "The app runs faster"
+      "The app runs faster",
+      "If anything goes wrong with the update, clear the app's storage, or go to https://gsc-college-rafin.netlify.app/ and install the app again. Thank you."
     ]
   }
 }
